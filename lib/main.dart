@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:flutter/material.dart';
 import 'package:login/login.dart';
 import 'package:login/register.dart';
